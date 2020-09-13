@@ -6,16 +6,9 @@
 
 <i> <b>You can looking some of my collaborations here: </b></i>
 
-<ul style="display: flex; justify-content: space-around;">
-    <li><a href="https://app.ibuyflowers.com/"> IBuyFlowers </li>
-<li><a href="https://arrendamientosayura.com/#/"> Ayura Arrendamientos </a></li>
-<li><a href="http://simplelegalapp.co/"> Simple legal </a></li>
-<li><a href="http://www.terravistastrings.com/"> TVS </a></li>
-<li><a href="https://www.letsplaysoccer.com/"> Let's play soccer!</a></li>
+<a href="https://app.ibuyflowers.com/"> IBuyFlowers</a>, <a href="https://arrendamientosayura.com/#/"> Ayura Arrendamientos</a>, <a href="http://simplelegalapp.co/"> Simple legal</a>, <a href="http://www.terravistastrings.com/"> TVS</a>, <a href="https://www.letsplaysoccer.com/"> Let's play soccer!</a>
 
-</ul>
-
-<img src="https://sbxcloud.com/www/ibuyflowers/images/logo_background_white.png" width="600" height="200" alt="ibuyflowerimg" />
+<img src="https://sbxcloud.com/www/ibuyflowers/images/logo_background_white.png" width="400" height="120" alt="ibuyflowerimg" />
 
 📫 How to reach me: <br /><br />
 <a href="https://www.linkedin.com/in/martin-jose-zuleta-mejia-51601b177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
