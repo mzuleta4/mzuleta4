@@ -6,7 +6,7 @@
 
 You can looking some of my collaborations here:
 
--  <a href="https://app.ibuyflowers.com/"> IBuyFlowers </a> <img src="https://sbxcloud.com/www/ibuyflowers/images/logo_background_white.png"  alt="ibuyflowerimg" />
+-  <a href="https://app.ibuyflowers.com/"> IBuyFlowers </a> <img src="https://sbxcloud.com/www/ibuyflowers/images/logo_background_white.png" width="16" height="9" alt="ibuyflowerimg" />
 
 
 📫 How to reach me: <br /><br />
