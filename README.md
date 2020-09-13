@@ -8,8 +8,6 @@
 
 <a href="https://app.ibuyflowers.com/"> IBuyFlowers</a>, <a href="https://arrendamientosayura.com/#/"> Ayura Arrendamientos</a>, <a href="http://simplelegalapp.co/"> Simple legal</a>, <a href="http://www.terravistastrings.com/"> TVS</a>, <a href="https://www.letsplaysoccer.com/"> Let's play soccer!</a>
 
-<img src="https://sbxcloud.com/www/ibuyflowers/images/logo_background_white.png" width="400" height="120" alt="ibuyflowerimg" />
-
 📫 How to reach me: <br /><br />
 <a href="https://www.linkedin.com/in/martin-jose-zuleta-mejia-51601b177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <!--
