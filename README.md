@@ -6,9 +6,13 @@
 
 <i> <b>You can looking some of my collaborations here: </b></i>
 
-<ul style="display: flex">
+<ul style="display: flex; justify-content: space-around;">
     <li><a href="https://app.ibuyflowers.com/"> IBuyFlowers </li>
 <li><a href="https://arrendamientosayura.com/#/"> Ayura Arrendamientos </a></li>
+<li><a href="http://simplelegalapp.co/"> Simple legal </a></li>
+<li><a href="http://www.terravistastrings.com/"> TVS </a></li>
+<li><a href="https://www.letsplaysoccer.com/"> Let's play soccer!</a></li>
+
 </ul>
 
 <img src="https://sbxcloud.com/www/ibuyflowers/images/logo_background_white.png" width="600" height="200" alt="ibuyflowerimg" />
