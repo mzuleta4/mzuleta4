@@ -6,8 +6,8 @@
 
 <i> <b>You can looking some of my collaborations here: </b></i>
 
-<ul style="display: flex; justify-content: space-between">
-<li><a href="https://app.ibuyflowers.com/"> IBuyFlowers </li>
+<ul style="display: flex">
+    <li><a href="https://app.ibuyflowers.com/"> IBuyFlowers </li>
 <li><a href="https://arrendamientosayura.com/#/"> Ayura Arrendamientos </a></li>
 <ul/>
 
