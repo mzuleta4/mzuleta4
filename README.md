@@ -6,10 +6,10 @@
 
 <i> <b>You can looking some of my collaborations here: </b></i>
 
-<div style="display: flex; justify-content: space-between">
--  <a href="https://app.ibuyflowers.com/"> IBuyFlowers </a>
-- <a href="https://arrendamientosayura.com/#/"> IBuyFlowers </a>
-<div/>
+<ul style="display: flex; justify-content: space-between">
+<li><a href="https://app.ibuyflowers.com/"> IBuyFlowers </li>
+<li><a href="https://arrendamientosayura.com/#/"> Ayura Arrendamientos </a></li>
+<ul/>
 
 
 <img src="https://sbxcloud.com/www/ibuyflowers/images/logo_background_white.png" width="600" height="200" alt="ibuyflowerimg" />
