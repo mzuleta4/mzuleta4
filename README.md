@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about React native to complement my react knowledge.
 - 👯 I’m looking to collaborate on react and js projects to improve my teamwork.
 
-<i>You can looking some of my collaborations here: </i>
+<i> <b>You can looking some of my collaborations here: </b></i>
 
 -  <a href="https://app.ibuyflowers.com/"> IBuyFlowers </a>
 <img src="https://sbxcloud.com/www/ibuyflowers/images/logo_background_white.png" width="600" height="200" alt="ibuyflowerimg" />
